@@ -1,0 +1,2 @@
+comunidadT 2 10.0.0.8
+prueba1 2 localhost
